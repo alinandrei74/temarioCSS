@@ -1,0 +1,11 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #f8f9fa;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+
+/*me ha salido responsive pero ahora sale en vertical :/ */
